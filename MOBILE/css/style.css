@@ -62,6 +62,10 @@ body a:link{
     background-size: 72px 256px;
 }
 
+.customFontSize{
+    font-size: 14px;
+}
+
 .block-header img{
     width: 100%;
     max-width: 640px;
